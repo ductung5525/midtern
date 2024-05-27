@@ -1,0 +1,68 @@
+.carousel {
+  display: flex;
+  align-items: flex-start;
+}
+
+.a1 {
+  margin-bottom: 20px;
+  color: aliceblue;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.a3 {
+
+  color: rgb(89, 90, 91);
+  margin-left: 100px;
+  margin-top: 30px;
+}
+
+.a4 {
+
+  color: rgb(86, 89, 91);
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.a2 {
+  color: aliceblue;
+  margin-left: 5%;
+}
+
+.a5 {
+  color: rgb(86, 89, 91);
+  margin-left: 5%;
+}
+
+.child {
+  margin-top: 30px;
+  margin-left: 600px;
+  border-radius: 300px;
+  background-color: rgb(70, 70, 74);
+  width: 300px;
+  padding: 10px;
+}
+
+
+.big {
+  background-color: black;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caro {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list {
+  display: flex;
+  justify-content: space-evenly;
+}
